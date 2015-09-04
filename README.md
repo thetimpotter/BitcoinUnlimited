@@ -1,5 +1,5 @@
 Bitcoin Unlimited
-==========
+=================
 
 Bitcoin Unlimited is a patch set on top of Bitcoin XT. It removes BIP101 and changes the blocksize to infinity. 
 
@@ -12,3 +12,6 @@ There is no development process except in the sense of making sure an infinite b
 
 In other words we completely support all patches of XT on top of Bitcoin Core, except BIP101. 
 
+Discussons and feedback
+======================
+At reddit you can discuss bitcoin unlimited, see https://www.reddit.com/r/bitcoin_unlimited
