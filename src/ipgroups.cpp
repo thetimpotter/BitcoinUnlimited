@@ -218,10 +218,10 @@ static CIPGroup *LoadIPDataFromWeb(const string &url, const string &groupname, i
 }
 
 static CIPGroup *LoadTorIPsFromWeb() {
-    // Just use the first IPv4 address for now. We could try all of them later on.
-    string ourip;
+    string ourip = "255.255.255.255";
     {
         LOCK(cs_mapLocalHost);
+        // Just use the first IPv4 address for now. We could try all of them later on.
         BOOST_FOREACH(const PAIRTYPE(CNetAddr, LocalServiceInfo) &item, mapLocalHost)
         {
             LogPrintf("Local IP: %s\n", item.first.ToString());
@@ -230,10 +230,6 @@ static CIPGroup *LoadTorIPsFromWeb() {
                 break;
             }
         }
-    }
-    if (ourip == "") {
-        // No routeable IPs so don't bother downloading: we can't receive connections from the outside anyway.
-        return NULL;
     }
     string url = strprintf("https://check.torproject.org/torbulkexitlist?ip=%s&port=8333", ourip);
     return LoadIPDataFromWeb(url, "tor", OPEN_PROXY_PRIORITY);
@@ -277,7 +273,7 @@ static void MaybeRemoveGroup(const string &group_name) {
 static bool LoadIPGroupsFromFile(const boost::filesystem::path &path, const string &group_name, int priority) {
     boost::filesystem::ifstream stream(path);
     if (!stream.good()) {
-        LogPrintf("IP Priority: Unable to read specified IP priority source file %s\n", path.native());
+        LogPrintf("IP Priority: Unable to read specified IP priority source file %s\n", path.string());
         return false;
     }
 
@@ -290,7 +286,7 @@ static bool LoadIPGroupsFromFile(const boost::filesystem::path &path, const stri
 
     group.subnets = ParseIPData(buf.str());
     if (group.subnets.size() == 0) {
-        LogPrintf("IP Priority: File empty or unable to understand the contents of %s\n", path.native());
+        LogPrintf("IP Priority: File empty or unable to understand the contents of %s\n", path.string());
         return false;
     }
 
