@@ -323,7 +323,7 @@
         <translation>Vahelehe tööriistariba</translation>
     </message>
     <message>
-        <source>Bitcoin XT</source>
+        <source>Bitcoin UL</source>
         <translation>Bitcoini tuumik</translation>
     </message>
     <message numerus="yes">
@@ -580,7 +580,7 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Bitcoin XT</source>
+        <source>Bitcoin UL</source>
         <translation>Bitcoini tuumik</translation>
     </message>
     <message>
@@ -588,7 +588,7 @@
         <translation>versioon</translation>
     </message>
     <message>
-        <source>About Bitcoin XT</source>
+        <source>About Bitcoin UL</source>
         <translation>Kirjeldus Bitcoini Tuumast</translation>
     </message>
     <message>
@@ -611,7 +611,7 @@
         <translation>Teretulemast</translation>
     </message>
     <message>
-        <source>Bitcoin XT</source>
+        <source>Bitcoin UL</source>
         <translation>Bitcoini tuumik</translation>
     </message>
     <message>
@@ -1255,11 +1255,11 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Bitcoin XT</source>
+        <source>Bitcoin UL</source>
         <translation>Bitcoini tuumik</translation>
     </message>
     <message>
-        <source>The Bitcoin XT developers</source>
+        <source>The Bitcoin UL developers</source>
         <translation>Bitcoini Tuuma arendajad</translation>
     </message>
     <message>

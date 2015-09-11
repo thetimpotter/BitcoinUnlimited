@@ -72,7 +72,7 @@ enum {
     // network services but don't provide them.
     NODE_NETWORK = (1 << 0),
     // NODE_GETUTXO means the node is capable of responding to the getutxo protocol request.
-    // Bitcoin Core does not support this but a patch set called Bitcoin XT does.
+    // Bitcoin Core does not support this but a patch set called Bitcoin UL does.
     // See BIP 64 for details on how this is implemented.
     NODE_GETUTXO = (1 << 1),
 

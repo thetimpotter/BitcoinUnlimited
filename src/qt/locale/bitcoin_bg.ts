@@ -283,8 +283,8 @@
         <translation>Отвори &amp;URI...</translation>
     </message>
     <message>
-        <source>Bitcoin XT client</source>
-        <translation>Bitcoin XT клиент</translation>
+        <source>Bitcoin UL client</source>
+        <translation>Bitcoin UL клиент</translation>
     </message>
     <message>
         <source>Send coins to a Bitcoin address</source>
@@ -327,7 +327,7 @@
         <translation>&amp;Получаване</translation>
     </message>
     <message>
-        <source>Show information about Bitcoin XT</source>
+        <source>Show information about Bitcoin UL</source>
         <translation>Покажете информация за Биткойн ядрото</translation>
     </message>
     <message>
@@ -367,7 +367,7 @@
         <translation>Раздели</translation>
     </message>
     <message>
-        <source>Bitcoin XT</source>
+        <source>Bitcoin UL</source>
         <translation>Биткойн ядро</translation>
     </message>
     <message>
@@ -375,8 +375,8 @@
         <translation>Изискване на плащания(генерира QR кодове и биткойн: URIs)</translation>
     </message>
     <message>
-        <source>&amp;About Bitcoin XT</source>
-        <translation>&amp;Относно Bitcoin XT</translation>
+        <source>&amp;About Bitcoin UL</source>
+        <translation>&amp;Относно Bitcoin UL</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -395,7 +395,7 @@
         <translation>&amp;Налични команди</translation>
     </message>
     <message>
-        <source>Show the Bitcoin XT help message to get a list with possible Bitcoin command-line options</source>
+        <source>Show the Bitcoin UL help message to get a list with possible Bitcoin command-line options</source>
         <translation>Покажи помощните съобщения на Биткойн за да видиш наличните и валидни команди</translation>
     </message>
     <message>
@@ -734,7 +734,7 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Bitcoin XT</source>
+        <source>Bitcoin UL</source>
         <translation>Биткойн ядро</translation>
     </message>
     <message>
@@ -746,8 +746,8 @@
         <translation>(%1-битов)</translation>
     </message>
     <message>
-        <source>About Bitcoin XT</source>
-        <translation>Относно Bitcoin XT</translation>
+        <source>About Bitcoin UL</source>
+        <translation>Относно Bitcoin UL</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -769,11 +769,11 @@
         <translation>Добре дошли</translation>
     </message>
     <message>
-        <source>Welcome to Bitcoin XT.</source>
+        <source>Welcome to Bitcoin UL.</source>
         <translation>Добре дошли в Биткойн ядрото.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Bitcoin XT will store its data.</source>
+        <source>As this is the first time the program is launched, you can choose where Bitcoin UL will store its data.</source>
         <translation>Тъй като това е първото стартиране на програмата можете да изберете къде Биткон ядрото да запази данните си.</translation>
     </message>
     <message>
@@ -785,7 +785,7 @@
         <translation>Използване на директория ръчно</translation>
     </message>
     <message>
-        <source>Bitcoin XT</source>
+        <source>Bitcoin UL</source>
         <translation>Биткойн ядро</translation>
     </message>
     <message>
@@ -1743,7 +1743,7 @@
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Bitcoin XT is shutting down...</source>
+        <source>Bitcoin UL is shutting down...</source>
         <translation>Биткойн ядрото се изключва...</translation>
     </message>
     <message>
@@ -1869,12 +1869,12 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Bitcoin XT</source>
+        <source>Bitcoin UL</source>
         <translation>Биткойн ядро</translation>
     </message>
     <message>
-        <source>The Bitcoin XT developers</source>
-        <translation>Разработчици на Bitcoin XT</translation>
+        <source>The Bitcoin UL developers</source>
+        <translation>Разработчици на Bitcoin UL</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -2387,7 +2387,7 @@
         <translation>Свързване чрез SOCKS5  прокси</translation>
     </message>
     <message>
-        <source>Copyright (C) 2009-%i The Bitcoin XT Developers</source>
+        <source>Copyright (C) 2009-%i The Bitcoin UL Developers</source>
         <translation>Всички права запазени (C) 2009-%i Доставчиците на Биткойн</translation>
     </message>
     <message>

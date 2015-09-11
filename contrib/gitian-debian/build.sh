@@ -51,7 +51,7 @@ mkdir DEBIAN
 cat <<EOF >DEBIAN/control
 Package: bitcoinxt
 Architecture: amd64
-Description: Bitcoin XT is a fully verifying Bitcoin node implementation, based on the sources of Bitcoin Core.
+Description: Bitcoin UL is a fully verifying Bitcoin node implementation, based on the sources of Bitcoin Core.
 Maintainer: Steve Myers <steven.myers@gmail.com>
 Version: $realver
 Depends: adduser, ntp

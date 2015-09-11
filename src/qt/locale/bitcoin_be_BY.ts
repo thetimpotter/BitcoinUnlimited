@@ -168,8 +168,8 @@
         <translation>Ці ўпэўненыя вы, што жадаеце зашыфраваць свой гаманец?</translation>
     </message>
     <message>
-        <source>Bitcoin XT will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
-        <translation>Bitcoin XT зараз будзе зачынены, каб фіналізаваць працэс шыфравання. Памятайце, што шыфраванне вашага гаманца не гарантуе абсалютную абарону ад магчымасці крадзяжу біткойнаў шкоднымі праграмамі, якія могуць інфікаваць ваш камп'ютар.</translation>
+        <source>Bitcoin UL will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
+        <translation>Bitcoin UL зараз будзе зачынены, каб фіналізаваць працэс шыфравання. Памятайце, што шыфраванне вашага гаманца не гарантуе абсалютную абарону ад магчымасці крадзяжу біткойнаў шкоднымі праграмамі, якія могуць інфікаваць ваш камп'ютар.</translation>
     </message>
     <message>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
@@ -295,8 +295,8 @@
         <translation>Адчыниць &amp;URI...</translation>
     </message>
     <message>
-        <source>Bitcoin XT client</source>
-        <translation>Bitcoin XT кліент</translation>
+        <source>Bitcoin UL client</source>
+        <translation>Bitcoin UL кліент</translation>
     </message>
     <message>
         <source>Importing blocks from disk...</source>
@@ -347,8 +347,8 @@
         <translation>Атрымаць</translation>
     </message>
     <message>
-        <source>Show information about Bitcoin XT</source>
-        <translation>Паказаць інфармацыю аб Bitcoin XT</translation>
+        <source>Show information about Bitcoin UL</source>
+        <translation>Паказаць інфармацыю аб Bitcoin UL</translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
@@ -383,20 +383,20 @@
         <translation>Дапамога</translation>
     </message>
     <message>
-        <source>Bitcoin XT</source>
-        <translation>Bitcoin XT</translation>
+        <source>Bitcoin UL</source>
+        <translation>Bitcoin UL</translation>
     </message>
     <message>
         <source>Request payments (generates QR codes and bitcoin: URIs)</source>
         <translation>Запатрабаваць плацёж (генеруецца QR-код для біткойн URI)</translation>
     </message>
     <message>
-        <source>&amp;About Bitcoin XT</source>
-        <translation>Аб Bitcoin XT</translation>
+        <source>&amp;About Bitcoin UL</source>
+        <translation>Аб Bitcoin UL</translation>
     </message>
     <message>
-        <source>Modify configuration options for Bitcoin XT</source>
-        <translation>Мадыфікаваць опцыі канфігурацыі Bitcoin XT</translation>
+        <source>Modify configuration options for Bitcoin UL</source>
+        <translation>Мадыфікаваць опцыі канфігурацыі Bitcoin UL</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -415,8 +415,8 @@
         <translation>Опцыі каманднага радка</translation>
     </message>
     <message>
-        <source>Show the Bitcoin XT help message to get a list with possible Bitcoin command-line options</source>
-        <translation>Паказваць даведку Bitcoin XT каб атрымаць спіс магчымых опцый каманднага радка</translation>
+        <source>Show the Bitcoin UL help message to get a list with possible Bitcoin command-line options</source>
+        <translation>Паказваць даведку Bitcoin UL каб атрымаць спіс магчымых опцый каманднага радка</translation>
     </message>
     <message numerus="yes">
         <source>%n active connection(s) to Bitcoin network</source>
@@ -772,16 +772,16 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Bitcoin XT</source>
-        <translation>Bitcoin XT</translation>
+        <source>Bitcoin UL</source>
+        <translation>Bitcoin UL</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-біт)</translation>
     </message>
     <message>
-        <source>About Bitcoin XT</source>
-        <translation>Аб Bitcoin XT</translation>
+        <source>About Bitcoin UL</source>
+        <translation>Аб Bitcoin UL</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -803,12 +803,12 @@
         <translation>Вітаем</translation>
     </message>
     <message>
-        <source>Welcome to Bitcoin XT.</source>
-        <translation>Вітаем у Bitcoin XT.</translation>
+        <source>Welcome to Bitcoin UL.</source>
+        <translation>Вітаем у Bitcoin UL.</translation>
     </message>
     <message>
-        <source>Bitcoin XT</source>
-        <translation>Bitcoin XT</translation>
+        <source>Bitcoin UL</source>
+        <translation>Bitcoin UL</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1067,12 +1067,12 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Bitcoin XT</source>
-        <translation>Bitcoin XT</translation>
+        <source>Bitcoin UL</source>
+        <translation>Bitcoin UL</translation>
     </message>
     <message>
-        <source>The Bitcoin XT developers</source>
-        <translation>Распрацоўнікі Bitcoin XT</translation>
+        <source>The Bitcoin UL developers</source>
+        <translation>Распрацоўнікі Bitcoin UL</translation>
     </message>
     <message>
         <source>[testnet]</source>

@@ -247,8 +247,8 @@
         <translation>&amp;Gaunami adresai...</translation>
     </message>
     <message>
-        <source>Bitcoin XT client</source>
-        <translation>Bitcoin XT klientas</translation>
+        <source>Bitcoin UL client</source>
+        <translation>Bitcoin UL klientas</translation>
     </message>
     <message>
         <source>Importing blocks from disk...</source>
@@ -299,8 +299,8 @@
         <translation>&amp;Gauti</translation>
     </message>
     <message>
-        <source>Show information about Bitcoin XT</source>
-        <translation>Rodyti informaciją apie Bitcoin XT</translation>
+        <source>Show information about Bitcoin UL</source>
+        <translation>Rodyti informaciją apie Bitcoin UL</translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
@@ -331,12 +331,12 @@
         <translation>Kortelių įrankinė</translation>
     </message>
     <message>
-        <source>Bitcoin XT</source>
+        <source>Bitcoin UL</source>
         <translation>Bitcoin branduolys</translation>
     </message>
     <message>
-        <source>&amp;About Bitcoin XT</source>
-        <translation>&amp;Apie Bitcoin XT</translation>
+        <source>&amp;About Bitcoin UL</source>
+        <translation>&amp;Apie Bitcoin UL</translation>
     </message>
     <message>
         <source>Error</source>
@@ -586,7 +586,7 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Bitcoin XT</source>
+        <source>Bitcoin UL</source>
         <translation>Bitcoin branduolys</translation>
     </message>
     <message>
@@ -594,8 +594,8 @@
         <translation>versija</translation>
     </message>
     <message>
-        <source>About Bitcoin XT</source>
-        <translation>Apie Bitcoin XT</translation>
+        <source>About Bitcoin UL</source>
+        <translation>Apie Bitcoin UL</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -617,11 +617,11 @@
         <translation>Sveiki</translation>
     </message>
     <message>
-        <source>Welcome to Bitcoin XT.</source>
-        <translation>Sveiki atvykę į Bitcoin XT.</translation>
+        <source>Welcome to Bitcoin UL.</source>
+        <translation>Sveiki atvykę į Bitcoin UL.</translation>
     </message>
     <message>
-        <source>Bitcoin XT</source>
+        <source>Bitcoin UL</source>
         <translation>Bitcoin branduolys</translation>
     </message>
     <message>
@@ -1165,7 +1165,7 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Bitcoin XT</source>
+        <source>Bitcoin UL</source>
         <translation>Bitcoin branduolys</translation>
     </message>
     <message>

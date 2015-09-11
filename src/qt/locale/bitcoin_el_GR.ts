@@ -288,8 +288,8 @@
         <translation>'Ανοιγμα &amp;URI</translation>
     </message>
     <message>
-        <source>Bitcoin XT client</source>
-        <translation>Εφαρμογή Bitcoin XT</translation>
+        <source>Bitcoin UL client</source>
+        <translation>Εφαρμογή Bitcoin UL</translation>
     </message>
     <message>
         <source>Importing blocks from disk...</source>
@@ -340,8 +340,8 @@
         <translation>&amp;Παραλαβή </translation>
     </message>
     <message>
-        <source>Show information about Bitcoin XT</source>
-        <translation>Σχετικά με το Bitcoin XT</translation>
+        <source>Show information about Bitcoin UL</source>
+        <translation>Σχετικά με το Bitcoin UL</translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
@@ -380,16 +380,16 @@
         <translation>Εργαλειοθήκη καρτελών</translation>
     </message>
     <message>
-        <source>Bitcoin XT</source>
-        <translation>Bitcoin XT</translation>
+        <source>Bitcoin UL</source>
+        <translation>Bitcoin UL</translation>
     </message>
     <message>
         <source>Request payments (generates QR codes and bitcoin: URIs)</source>
         <translation>Αίτηση πληρωμών (δημιουργεί QR codes και διευθύνσεις bitcoin: )</translation>
     </message>
     <message>
-        <source>&amp;About Bitcoin XT</source>
-        <translation>&amp;Σχετικά με το Bitcoin XT</translation>
+        <source>&amp;About Bitcoin UL</source>
+        <translation>&amp;Σχετικά με το Bitcoin UL</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -408,7 +408,7 @@
         <translation>&amp;Επιλογές γραμμής εντολών</translation>
     </message>
     <message>
-        <source>Show the Bitcoin XT help message to get a list with possible Bitcoin command-line options</source>
+        <source>Show the Bitcoin UL help message to get a list with possible Bitcoin command-line options</source>
         <translation>Εμφανιση του Bitcoin-Qt μήνυματος βοήθειας για να πάρετε μια λίστα με τις πιθανές επιλογές Bitcoin γραμμής εντολών.</translation>
     </message>
     <message>
@@ -760,8 +760,8 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Bitcoin XT</source>
-        <translation>Bitcoin XT</translation>
+        <source>Bitcoin UL</source>
+        <translation>Bitcoin UL</translation>
     </message>
     <message>
         <source>version</source>
@@ -772,8 +772,8 @@
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About Bitcoin XT</source>
-        <translation>Σχετικά με το Bitcoin XT</translation>
+        <source>About Bitcoin UL</source>
+        <translation>Σχετικά με το Bitcoin UL</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -795,15 +795,15 @@
         <translation>Καλώς ήρθατε</translation>
     </message>
     <message>
-        <source>Welcome to Bitcoin XT.</source>
-        <translation>Καλώς ήρθατε στο Bitcoin XT.</translation>
+        <source>Welcome to Bitcoin UL.</source>
+        <translation>Καλώς ήρθατε στο Bitcoin UL.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Bitcoin XT will store its data.</source>
-        <translation>Καθώς αυτή είναι η πρώτη φορά που εκκινείται το πρόγραμμα, μπορείτε να διαλέξετε πού θα αποθηκεύει το Bitcoin XT τα δεδομένα του.</translation>
+        <source>As this is the first time the program is launched, you can choose where Bitcoin UL will store its data.</source>
+        <translation>Καθώς αυτή είναι η πρώτη φορά που εκκινείται το πρόγραμμα, μπορείτε να διαλέξετε πού θα αποθηκεύει το Bitcoin UL τα δεδομένα του.</translation>
     </message>
     <message>
-        <source>Bitcoin XT will download and store a copy of the Bitcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <source>Bitcoin UL will download and store a copy of the Bitcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
         <translation>O πυρήνας Bitcoin θα κατεβάσει και να αποθηκεύσει ένα αντίγραφο της αλυσίδας μπλοκ Bitcoin. Τουλάχιστον %1GB δεδομένων θα αποθηκευτούν σε αυτόν τον κατάλογο, και θα αυξηθεί με την πάροδο του χρόνου. Το πορτοφόλι θα αποθηκευτεί σε αυτόν τον κατάλογο.</translation>
     </message>
     <message>
@@ -815,8 +815,8 @@
         <translation>Προσαρμογή του φακέλου δεδομένων: </translation>
     </message>
     <message>
-        <source>Bitcoin XT</source>
-        <translation>Bitcoin XT</translation>
+        <source>Bitcoin UL</source>
+        <translation>Bitcoin UL</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -1858,8 +1858,8 @@
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Bitcoin XT is shutting down...</source>
-        <translation>Το Bitcoin XT τερματίζεται...</translation>
+        <source>Bitcoin UL is shutting down...</source>
+        <translation>Το Bitcoin UL τερματίζεται...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -2000,12 +2000,12 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Bitcoin XT</source>
-        <translation>Bitcoin XT</translation>
+        <source>Bitcoin UL</source>
+        <translation>Bitcoin UL</translation>
     </message>
     <message>
-        <source>The Bitcoin XT developers</source>
-        <translation>Οι προγραμματιστές του Bitcoin XT</translation>
+        <source>The Bitcoin UL developers</source>
+        <translation>Οι προγραμματιστές του Bitcoin UL</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -2610,12 +2610,12 @@
         <translation>Εισαγωγή μπλοκ από εξωτερικό αρχείο blk000?.dat</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Bitcoin XT is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. Bitcoin UL is probably already running.</source>
         <translation>Αδυναμία κλειδώματος του φακέλου δεδομένων %s. Πιθανώς το Bitcoin να είναι ήδη ενεργό.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Bitcoin XT will not work properly.</source>
-        <translation>Προειδοποίηση: Παρακαλώ ελέγξτε ότι η ημερομηνία και ώρα του υπολογιστή σας είναι σωστά ρυθμισμένες! Εάν το ρολόι σας είναι λάθος το Bitcoin XT δεν θα λειτουργήσει σωστά. </translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Bitcoin UL will not work properly.</source>
+        <translation>Προειδοποίηση: Παρακαλώ ελέγξτε ότι η ημερομηνία και ώρα του υπολογιστή σας είναι σωστά ρυθμισμένες! Εάν το ρολόι σας είναι λάθος το Bitcoin UL δεν θα λειτουργήσει σωστά. </translation>
     </message>
     <message>
         <source>Choose data directory on startup (default: 0)</source>
@@ -2630,7 +2630,7 @@
         <translation>Δεν μπόρεσε να αναλυθεί η παράμετρος -rpcbind value %s ως διεύθυνση δικτύου</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Bitcoin XT</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of Bitcoin UL</source>
         <translation>Σφάλμα φόρτωσης wallet.dat: Το Πορτοφόλι απαιτεί μια νεότερη έκδοση του Bitcoin</translation>
     </message>
     <message>
@@ -2646,8 +2646,8 @@
         <translation>Πληροφορία</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. Bitcoin XT is shutting down.</source>
-        <translation>Η εκκίνηση ελέγχου ορθότητας απέτυχε.  Γίνεται τερματισμός του Bitcoin XT.</translation>
+        <source>Initialization sanity check failed. Bitcoin UL is shutting down.</source>
+        <translation>Η εκκίνηση ελέγχου ορθότητας απέτυχε.  Γίνεται τερματισμός του Bitcoin UL.</translation>
     </message>
     <message>
         <source>Invalid amount for -minrelaytxfee=&lt;amount&gt;: '%s'</source>

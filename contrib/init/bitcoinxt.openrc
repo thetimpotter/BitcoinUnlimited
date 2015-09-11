@@ -18,7 +18,7 @@ BITCOINXT_BIN=${BITCOINXT_BIN:-/usr/bin/bitcoinxt}
 BITCOINXT_NICE=${BITCOINXT_NICE:-${NICELEVEL:-0}}
 BITCOINXT_OPTS="${BITCOINXT_OPTS:-${BITCOIN_OPTS}}"
 
-name="Bitcoin XT Daemon"
+name="Bitcoin UL Daemon"
 description="Bitcoin cryptocurrency P2P network daemon"
 
 command="/usr/bin/bitcoinxt"

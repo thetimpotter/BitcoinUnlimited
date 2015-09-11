@@ -291,8 +291,8 @@
         <translation>Otvori &amp;URI...</translation>
     </message>
     <message>
-        <source>Bitcoin XT client</source>
-        <translation>Bitcoin XT klijent</translation>
+        <source>Bitcoin UL client</source>
+        <translation>Bitcoin UL klijent</translation>
     </message>
     <message>
         <source>Importing blocks from disk...</source>
@@ -343,8 +343,8 @@
         <translation>Pri&amp;mi</translation>
     </message>
     <message>
-        <source>Show information about Bitcoin XT</source>
-        <translation>Prikaži informacije o programu Bitcoin XT</translation>
+        <source>Show information about Bitcoin UL</source>
+        <translation>Prikaži informacije o programu Bitcoin UL</translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
@@ -383,19 +383,19 @@
         <translation>Traka kartica</translation>
     </message>
     <message>
-        <source>Bitcoin XT</source>
-        <translation>Bitcoin XT</translation>
+        <source>Bitcoin UL</source>
+        <translation>Bitcoin UL</translation>
     </message>
     <message>
         <source>Request payments (generates QR codes and bitcoin: URIs)</source>
         <translation>Zatraži uplatu (stvara QR kod i bitcoin: URI adresu)</translation>
     </message>
     <message>
-        <source>&amp;About Bitcoin XT</source>
-        <translation>&amp;O programu Bitcoin XT</translation>
+        <source>&amp;About Bitcoin UL</source>
+        <translation>&amp;O programu Bitcoin UL</translation>
     </message>
     <message>
-        <source>Modify configuration options for Bitcoin XT</source>
+        <source>Modify configuration options for Bitcoin UL</source>
         <translation>Promijeni postavke programa</translation>
     </message>
     <message>
@@ -415,7 +415,7 @@
         <translation>Opcije &amp;naredbene linije</translation>
     </message>
     <message>
-        <source>Show the Bitcoin XT help message to get a list with possible Bitcoin command-line options</source>
+        <source>Show the Bitcoin UL help message to get a list with possible Bitcoin command-line options</source>
         <translation>Ispis svih opcija naredbene linije programa sa kratkim opisom</translation>
     </message>
     <message numerus="yes">
@@ -744,8 +744,8 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Bitcoin XT</source>
-        <translation>Bitcoin XT</translation>
+        <source>Bitcoin UL</source>
+        <translation>Bitcoin UL</translation>
     </message>
     <message>
         <source>version</source>
@@ -756,8 +756,8 @@
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About Bitcoin XT</source>
-        <translation>O programu Bitcoin XT</translation>
+        <source>About Bitcoin UL</source>
+        <translation>O programu Bitcoin UL</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -779,12 +779,12 @@
         <translation>Dobrodošli</translation>
     </message>
     <message>
-        <source>Welcome to Bitcoin XT.</source>
-        <translation>Dobrodošli u programu Bitcoin XT.</translation>
+        <source>Welcome to Bitcoin UL.</source>
+        <translation>Dobrodošli u programu Bitcoin UL.</translation>
     </message>
     <message>
-        <source>Bitcoin XT</source>
-        <translation>Bitcoin XT</translation>
+        <source>Bitcoin UL</source>
+        <translation>Bitcoin UL</translation>
     </message>
     <message>
         <source>Error</source>
@@ -861,11 +861,11 @@
         <translation>&amp;Mreža</translation>
     </message>
     <message>
-        <source>Automatically start Bitcoin XT after logging in to the system.</source>
+        <source>Automatically start Bitcoin UL after logging in to the system.</source>
         <translation>Program se automatski pokrene po prijavi u sustav.</translation>
     </message>
     <message>
-        <source>&amp;Start Bitcoin XT on system login</source>
+        <source>&amp;Start Bitcoin UL on system login</source>
         <translation>&amp;Pokreni program kod prijave u sustav</translation>
     </message>
     <message>
@@ -1087,7 +1087,7 @@
         <translation>Očisti konzolu</translation>
     </message>
     <message>
-        <source>Welcome to the Bitcoin XT RPC console.</source>
+        <source>Welcome to the Bitcoin UL RPC console.</source>
         <translation>Dobrodošli u Bitcoin RPC konzolu.</translation>
     </message>
     <message>
@@ -1391,8 +1391,8 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Bitcoin XT</source>
-        <translation>Bitcoin XT</translation>
+        <source>Bitcoin UL</source>
+        <translation>Bitcoin UL</translation>
     </message>
     <message>
         <source>[testnet]</source>

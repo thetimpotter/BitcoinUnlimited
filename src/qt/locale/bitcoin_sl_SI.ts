@@ -164,7 +164,7 @@
         <translation>Ali ste prepričani, da želite šifrirati vašo denarnico?</translation>
     </message>
     <message>
-        <source>Bitcoin XT will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
+        <source>Bitcoin UL will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
         <translation>Program se bo zaprl, da dokonča proces šifriranja. Zapomnite si, da šifriranje ne more popolnoma zaščititi vaše denarnice pred krajami in zlonamernimi programi, ki bi lahko bili nameščeni na vašem računalniku.</translation>
     </message>
     <message>
@@ -291,8 +291,8 @@
         <translation>Odpri &amp;URI ...</translation>
     </message>
     <message>
-        <source>Bitcoin XT client</source>
-        <translation>Odjemalec Bitcoin XT</translation>
+        <source>Bitcoin UL client</source>
+        <translation>Odjemalec Bitcoin UL</translation>
     </message>
     <message>
         <source>Importing blocks from disk...</source>
@@ -339,7 +339,7 @@
         <translation>&amp;Sprejmi</translation>
     </message>
     <message>
-        <source>Show information about Bitcoin XT</source>
+        <source>Show information about Bitcoin UL</source>
         <translation>Pokaži informacije o programu</translation>
     </message>
     <message>
@@ -379,19 +379,19 @@
         <translation>Orodna vrstica zavihkov</translation>
     </message>
     <message>
-        <source>Bitcoin XT</source>
-        <translation>Bitcoin XT</translation>
+        <source>Bitcoin UL</source>
+        <translation>Bitcoin UL</translation>
     </message>
     <message>
         <source>Request payments (generates QR codes and bitcoin: URIs)</source>
         <translation>Ustvarjanje zahtevka za plačilo (izdelava QR kode in bitcoin: URI naslova)</translation>
     </message>
     <message>
-        <source>&amp;About Bitcoin XT</source>
+        <source>&amp;About Bitcoin UL</source>
         <translation>&amp;O programu</translation>
     </message>
     <message>
-        <source>Modify configuration options for Bitcoin XT</source>
+        <source>Modify configuration options for Bitcoin UL</source>
         <translation>Urejanje nastavitev programa</translation>
     </message>
     <message>
@@ -411,7 +411,7 @@
         <translation>Opcije &amp;ukazne vrstice</translation>
     </message>
     <message>
-        <source>Show the Bitcoin XT help message to get a list with possible Bitcoin command-line options</source>
+        <source>Show the Bitcoin UL help message to get a list with possible Bitcoin command-line options</source>
         <translation>Prikaže seznam vseh opcij pri zagonu programa in kratek opis</translation>
     </message>
     <message numerus="yes">
@@ -824,8 +824,8 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Bitcoin XT</source>
-        <translation>Bitcoin XT</translation>
+        <source>Bitcoin UL</source>
+        <translation>Bitcoin UL</translation>
     </message>
     <message>
         <source>version</source>
@@ -836,8 +836,8 @@
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About Bitcoin XT</source>
-        <translation>O programu Bitcoin XT</translation>
+        <source>About Bitcoin UL</source>
+        <translation>O programu Bitcoin UL</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -859,15 +859,15 @@
         <translation>Dobrodošli</translation>
     </message>
     <message>
-        <source>Welcome to Bitcoin XT.</source>
-        <translation>Dobrodošli v programu Bitcoin XT.</translation>
+        <source>Welcome to Bitcoin UL.</source>
+        <translation>Dobrodošli v programu Bitcoin UL.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Bitcoin XT will store its data.</source>
-        <translation>To je prvi zagonom programa, zato izberite kje bo program Bitcoin XT shranjeval podatke.</translation>
+        <source>As this is the first time the program is launched, you can choose where Bitcoin UL will store its data.</source>
+        <translation>To je prvi zagonom programa, zato izberite kje bo program Bitcoin UL shranjeval podatke.</translation>
     </message>
     <message>
-        <source>Bitcoin XT will download and store a copy of the Bitcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <source>Bitcoin UL will download and store a copy of the Bitcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
         <translation>Program bo prenesel in shranil kopijo bitcoin verige blokov. V izbrano mapo bo shranjenih vsaj %1 GB podatkov, ta količina bo sčasoma še naraščala. Denarnica bo prav tako shranjena v to mapo.</translation>
     </message>
     <message>
@@ -879,8 +879,8 @@
         <translation>Uporabi to mapo za shranjevanje podatkov:</translation>
     </message>
     <message>
-        <source>Bitcoin XT</source>
-        <translation>Bitcoin XT</translation>
+        <source>Bitcoin UL</source>
+        <translation>Bitcoin UL</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -957,7 +957,7 @@
         <translation>Program bo minimiran, namesto zaprt, ko zaprete okno programa. Ko je ta opcija omogočena program ustavite z izbiro ukaza &lt;b&gt;Izhod&lt;/b&gt; iz menija. </translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Bitcoin XT.</source>
+        <source>The user interface language can be set here. This setting will take effect after restarting Bitcoin UL.</source>
         <translation>Nastavitev jezika uporabniškega vmesnika programa. Nova nastavitev jezika bo uporabljena šele, ko boste znova zagnali program.</translation>
     </message>
     <message>
@@ -985,11 +985,11 @@
         <translation>&amp;Omrežje</translation>
     </message>
     <message>
-        <source>Automatically start Bitcoin XT after logging in to the system.</source>
+        <source>Automatically start Bitcoin UL after logging in to the system.</source>
         <translation>Samodejen zagon programa po prijavi uporabnika v sistem</translation>
     </message>
     <message>
-        <source>&amp;Start Bitcoin XT on system login</source>
+        <source>&amp;Start Bitcoin UL on system login</source>
         <translation>&amp;Zaženi program ob prijavi v sistem</translation>
     </message>
     <message>
@@ -1419,8 +1419,8 @@
         <translation>Trenutno število blokov</translation>
     </message>
     <message>
-        <source>Open the Bitcoin XT debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Odpre razhroščevalni dnevnik Bitcoin XT, ki se nahaja v trenutni podatkovni mapi. Če je datoteka velika, lahko postopek traja nekaj sekund.</translation>
+        <source>Open the Bitcoin UL debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Odpre razhroščevalni dnevnik Bitcoin UL, ki se nahaja v trenutni podatkovni mapi. Če je datoteka velika, lahko postopek traja nekaj sekund.</translation>
     </message>
     <message>
         <source>Received</source>
@@ -1539,8 +1539,8 @@
         <translation>Počisti konzolo</translation>
     </message>
     <message>
-        <source>Welcome to the Bitcoin XT RPC console.</source>
-        <translation>Dobrodošli v Bitcoin XT RPC konzolo.</translation>
+        <source>Welcome to the Bitcoin UL RPC console.</source>
+        <translation>Dobrodošli v Bitcoin UL RPC konzolo.</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
@@ -2113,7 +2113,7 @@
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Bitcoin XT is shutting down...</source>
+        <source>Bitcoin UL is shutting down...</source>
         <translation>Program se ustavlja ...</translation>
     </message>
     <message>
@@ -2239,12 +2239,12 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Bitcoin XT</source>
-        <translation>Bitcoin XT</translation>
+        <source>Bitcoin UL</source>
+        <translation>Bitcoin UL</translation>
     </message>
     <message>
-        <source>The Bitcoin XT developers</source>
-        <translation>Bitcoin XT razvijalci</translation>
+        <source>The Bitcoin UL developers</source>
+        <translation>Bitcoin UL razvijalci</translation>
     </message>
     <message>
         <source>[testnet]</source>

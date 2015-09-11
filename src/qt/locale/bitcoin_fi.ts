@@ -287,8 +287,8 @@
         <translation>Avaa &amp;URI...</translation>
     </message>
     <message>
-        <source>Bitcoin XT client</source>
-        <translation>Bitcoin XT ohjelma</translation>
+        <source>Bitcoin UL client</source>
+        <translation>Bitcoin UL ohjelma</translation>
     </message>
     <message>
         <source>Importing blocks from disk...</source>
@@ -339,8 +339,8 @@
         <translation>&amp;Vastaanota</translation>
     </message>
     <message>
-        <source>Show information about Bitcoin XT</source>
-        <translation>Näytä tietoja Bitcoin XT:sta</translation>
+        <source>Show information about Bitcoin UL</source>
+        <translation>Näytä tietoja Bitcoin UL:sta</translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
@@ -379,7 +379,7 @@
         <translation>Välilehtipalkki</translation>
     </message>
     <message>
-        <source>Bitcoin XT</source>
+        <source>Bitcoin UL</source>
         <translation>Bitcoin-ydin</translation>
     </message>
     <message>
@@ -387,8 +387,8 @@
         <translation>Pyydä maksuja (Luo QR koodit ja bitcoin: URIt)</translation>
     </message>
     <message>
-        <source>&amp;About Bitcoin XT</source>
-        <translation>&amp;Tietoja Bitcoin XT</translation>
+        <source>&amp;About Bitcoin UL</source>
+        <translation>&amp;Tietoja Bitcoin UL</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -407,8 +407,8 @@
         <translation>&amp;Komentorivin valinnat</translation>
     </message>
     <message>
-        <source>Show the Bitcoin XT help message to get a list with possible Bitcoin command-line options</source>
-        <translation>Näytä Bitcoin XT ohjeet saadaksesi listan mahdollisista Bitcoinin komentorivivalinnoista</translation>
+        <source>Show the Bitcoin UL help message to get a list with possible Bitcoin command-line options</source>
+        <translation>Näytä Bitcoin UL ohjeet saadaksesi listan mahdollisista Bitcoinin komentorivivalinnoista</translation>
     </message>
     <message numerus="yes">
         <source>%n active connection(s) to Bitcoin network</source>
@@ -786,7 +786,7 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Bitcoin XT</source>
+        <source>Bitcoin UL</source>
         <translation>Bitcoin-ydin</translation>
     </message>
     <message>
@@ -798,8 +798,8 @@
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About Bitcoin XT</source>
-        <translation>Tietoja Bitcoin XT</translation>
+        <source>About Bitcoin UL</source>
+        <translation>Tietoja Bitcoin UL</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -821,16 +821,16 @@
         <translation>Tervetuloa</translation>
     </message>
     <message>
-        <source>Welcome to Bitcoin XT.</source>
-        <translation>Tervetuloa Bitcoin XT</translation>
+        <source>Welcome to Bitcoin UL.</source>
+        <translation>Tervetuloa Bitcoin UL</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Bitcoin XT will store its data.</source>
-        <translation>Tämän on ensimmäinen kerta kun Bitcoin XT on käynnistetty joten voit valita data-hakemiston paikan.</translation>
+        <source>As this is the first time the program is launched, you can choose where Bitcoin UL will store its data.</source>
+        <translation>Tämän on ensimmäinen kerta kun Bitcoin UL on käynnistetty joten voit valita data-hakemiston paikan.</translation>
     </message>
     <message>
-        <source>Bitcoin XT will download and store a copy of the Bitcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Bitcoin XT lataa ja tallentaa kopion Bitcoinin lohkoketjusta. Vähintään %1GB dataa tullaan tallentamaan tähän hakemistoon ja tarve kasvaa ajan myötä. Lomakko tullaan myös tallentamaan tähän hakemistoon.</translation>
+        <source>Bitcoin UL will download and store a copy of the Bitcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>Bitcoin UL lataa ja tallentaa kopion Bitcoinin lohkoketjusta. Vähintään %1GB dataa tullaan tallentamaan tähän hakemistoon ja tarve kasvaa ajan myötä. Lomakko tullaan myös tallentamaan tähän hakemistoon.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -841,7 +841,7 @@
         <translation>Määritä oma kansio:</translation>
     </message>
     <message>
-        <source>Bitcoin XT</source>
+        <source>Bitcoin UL</source>
         <translation>Bitcoin-ydin</translation>
     </message>
     <message>
@@ -1975,7 +1975,7 @@
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Bitcoin XT is shutting down...</source>
+        <source>Bitcoin UL is shutting down...</source>
         <translation>Bitcoin core sulkeutuu...</translation>
     </message>
     <message>
@@ -2117,12 +2117,12 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Bitcoin XT</source>
+        <source>Bitcoin UL</source>
         <translation>Bitcoin-ydin</translation>
     </message>
     <message>
-        <source>The Bitcoin XT developers</source>
-        <translation>Bitcoin XT kehittäjät</translation>
+        <source>The Bitcoin UL developers</source>
+        <translation>Bitcoin UL kehittäjät</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -2647,8 +2647,8 @@
         <translation>Tämä on esi-julkaistu testiversio - Käytä omalla riskillä - Ei saa käytää louhimiseen tai kauppasovelluksiin.</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Bitcoin XT is probably already running.</source>
-        <translation>Ei voida yhdistää %s tässä tietokoneessa. Bitcoin XT on luultavasti jo käynnissä.</translation>
+        <source>Unable to bind to %s on this computer. Bitcoin UL is probably already running.</source>
+        <translation>Ei voida yhdistää %s tässä tietokoneessa. Bitcoin UL on luultavasti jo käynnissä.</translation>
     </message>
     <message>
         <source>Warning: -paytxfee is set very high! This is the transaction fee you will pay if you send a transaction.</source>
@@ -2795,8 +2795,8 @@
         <translation>Tuodaan lohkoja ulkoisesta blk000??.dat tiedostosta</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Bitcoin XT is probably already running.</source>
-        <translation>Ei voida lukita data-hakemistoa %s. Bitcoin XT on luultavasti jo käynnissä.</translation>
+        <source>Cannot obtain a lock on data directory %s. Bitcoin UL is probably already running.</source>
+        <translation>Ei voida lukita data-hakemistoa %s. Bitcoin UL on luultavasti jo käynnissä.</translation>
     </message>
     <message>
         <source>Execute command when a relevant alert is received or we see a really long fork (%s in cmd is replaced by message)</source>
@@ -2819,11 +2819,11 @@
         <translation>Yhdistä SOCKS5 proxin kautta</translation>
     </message>
     <message>
-        <source>Copyright (C) 2009-%i The Bitcoin XT Developers</source>
+        <source>Copyright (C) 2009-%i The Bitcoin UL Developers</source>
         <translation>Copyright (C) 2009-%i  Bitcoin kehittäjät</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Bitcoin XT</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of Bitcoin UL</source>
         <translation>Virhe ladattaessa wallet.dat-tiedostoa: Tarvitset uudemman version Bitcoinista</translation>
     </message>
     <message>
@@ -2907,7 +2907,7 @@
         <translation>Käyttäjätunnus JSON-RPC-yhteyksille</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Bitcoin XT to complete</source>
+        <source>Wallet needed to be rewritten: restart Bitcoin UL to complete</source>
         <translation>Lompakko tarvitsee uudelleenkirjoittaa: käynnistä Bitcoin uudelleen</translation>
     </message>
     <message>

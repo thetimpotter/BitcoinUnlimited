@@ -169,8 +169,8 @@ Var vänlig och försök igen.</translation>
         <translation>Är du säker på att du vill kryptera din plånbok?</translation>
     </message>
     <message>
-        <source>Bitcoin XT will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
-        <translation>Bitcoin XT kommer att stängas för att slutföra krypteringsprocessen. Kom ihåg att plånbokskryptering inte garanterar fullt skydd mot skadlig kod på din dator.</translation>
+        <source>Bitcoin UL will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
+        <translation>Bitcoin UL kommer att stängas för att slutföra krypteringsprocessen. Kom ihåg att plånbokskryptering inte garanterar fullt skydd mot skadlig kod på din dator.</translation>
     </message>
     <message>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
@@ -296,8 +296,8 @@ Var vänlig och försök igen.</translation>
         <translation>Öppna &amp;URI...</translation>
     </message>
     <message>
-        <source>Bitcoin XT client</source>
-        <translation>Bitcoin XT klient</translation>
+        <source>Bitcoin UL client</source>
+        <translation>Bitcoin UL klient</translation>
     </message>
     <message>
         <source>Importing blocks from disk...</source>
@@ -348,8 +348,8 @@ Var vänlig och försök igen.</translation>
         <translation>&amp;Ta emot</translation>
     </message>
     <message>
-        <source>Show information about Bitcoin XT</source>
-        <translation>Visa information om Bitcoin XT</translation>
+        <source>Show information about Bitcoin UL</source>
+        <translation>Visa information om Bitcoin UL</translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
@@ -388,7 +388,7 @@ Var vänlig och försök igen.</translation>
         <translation>Verktygsfält för Tabbar</translation>
     </message>
     <message>
-        <source>Bitcoin XT</source>
+        <source>Bitcoin UL</source>
         <translation>Bitcoin Kärna</translation>
     </message>
     <message>
@@ -396,12 +396,12 @@ Var vänlig och försök igen.</translation>
         <translation>Begär betalning (genererar QR-koder och bitcoin-URI)</translation>
     </message>
     <message>
-        <source>&amp;About Bitcoin XT</source>
-        <translation>&amp;Om Bitcoin XT</translation>
+        <source>&amp;About Bitcoin UL</source>
+        <translation>&amp;Om Bitcoin UL</translation>
     </message>
     <message>
-        <source>Modify configuration options for Bitcoin XT</source>
-        <translation>Ändra konfigurationsalternativ för Bitcoin XT</translation>
+        <source>Modify configuration options for Bitcoin UL</source>
+        <translation>Ändra konfigurationsalternativ för Bitcoin UL</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -420,8 +420,8 @@ Var vänlig och försök igen.</translation>
         <translation>&amp;Kommandoradsalternativ</translation>
     </message>
     <message>
-        <source>Show the Bitcoin XT help message to get a list with possible Bitcoin command-line options</source>
-        <translation>Visa Bitcoin XT hjälpmeddelande för att få en lista med möjliga Bitcoin kommandoradsalternativ.</translation>
+        <source>Show the Bitcoin UL help message to get a list with possible Bitcoin command-line options</source>
+        <translation>Visa Bitcoin UL hjälpmeddelande för att få en lista med möjliga Bitcoin kommandoradsalternativ.</translation>
     </message>
     <message numerus="yes">
         <source>%n active connection(s) to Bitcoin network</source>
@@ -841,7 +841,7 @@ Var vänlig och försök igen.</translation>
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Bitcoin XT</source>
+        <source>Bitcoin UL</source>
         <translation>Bitcoin Kärna</translation>
     </message>
     <message>
@@ -853,8 +853,8 @@ Var vänlig och försök igen.</translation>
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About Bitcoin XT</source>
-        <translation>Om Bitcoin XT</translation>
+        <source>About Bitcoin UL</source>
+        <translation>Om Bitcoin UL</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -876,16 +876,16 @@ Var vänlig och försök igen.</translation>
         <translation>Välkommen</translation>
     </message>
     <message>
-        <source>Welcome to Bitcoin XT.</source>
-        <translation>Välkommen till Bitcoin XT.</translation>
+        <source>Welcome to Bitcoin UL.</source>
+        <translation>Välkommen till Bitcoin UL.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Bitcoin XT will store its data.</source>
-        <translation>Eftersom detta är första gången programmet startas får du välja var Bitcoin XT skall lagra sitt data.</translation>
+        <source>As this is the first time the program is launched, you can choose where Bitcoin UL will store its data.</source>
+        <translation>Eftersom detta är första gången programmet startas får du välja var Bitcoin UL skall lagra sitt data.</translation>
     </message>
     <message>
-        <source>Bitcoin XT will download and store a copy of the Bitcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Bitcoin XT kommer att ladda ner och spara en kopia av Bitcoin blockkedjan. Åtminstone %1GB av data kommer att sparas i denna katalog, och den kommer att växa över tiden. Plånboken kommer också att sparas i denna katalog.</translation>
+        <source>Bitcoin UL will download and store a copy of the Bitcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>Bitcoin UL kommer att ladda ner och spara en kopia av Bitcoin blockkedjan. Åtminstone %1GB av data kommer att sparas i denna katalog, och den kommer att växa över tiden. Plånboken kommer också att sparas i denna katalog.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -896,7 +896,7 @@ Var vänlig och försök igen.</translation>
         <translation>Använd en anpassad datakatalog:</translation>
     </message>
     <message>
-        <source>Bitcoin XT</source>
+        <source>Bitcoin UL</source>
         <translation>Bitcoin Kärna</translation>
     </message>
     <message>
@@ -978,8 +978,8 @@ Var vänlig och försök igen.</translation>
         <translation>Minimera istället för att stänga programmet när fönstret stängs. När detta alternativ är aktiverat stängs programmet endast genom att välja Stäng i menyn.</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Bitcoin XT.</source>
-        <translation>Gränssnittets språk kan väljas här. Denna inställning träder i kraft efter omstart av Bitcoin XT.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Bitcoin UL.</source>
+        <translation>Gränssnittets språk kan väljas här. Denna inställning träder i kraft efter omstart av Bitcoin UL.</translation>
     </message>
     <message>
         <source>Third party URLs (e.g. a block explorer) that appear in the transactions tab as context menu items. %s in the URL is replaced by transaction hash. Multiple URLs are separated by vertical bar |.</source>
@@ -1006,12 +1006,12 @@ Var vänlig och försök igen.</translation>
         <translation>&amp;Nätverk</translation>
     </message>
     <message>
-        <source>Automatically start Bitcoin XT after logging in to the system.</source>
-        <translation>Kör Bitcoin XT automatiskt vid systeminloggning.</translation>
+        <source>Automatically start Bitcoin UL after logging in to the system.</source>
+        <translation>Kör Bitcoin UL automatiskt vid systeminloggning.</translation>
     </message>
     <message>
-        <source>&amp;Start Bitcoin XT on system login</source>
-        <translation>&amp;Kör Bitcoin XT vid systeminloggning</translation>
+        <source>&amp;Start Bitcoin UL on system login</source>
+        <translation>&amp;Kör Bitcoin UL vid systeminloggning</translation>
     </message>
     <message>
         <source>(0 = auto, &lt;0 = leave that many cores free)</source>
@@ -1440,8 +1440,8 @@ Var vänlig och försök igen.</translation>
         <translation>Aktuellt antal block</translation>
     </message>
     <message>
-        <source>Open the Bitcoin XT debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Öppna felsökningsloggfilen för Bitcoin XT från den nuvarande datakatalogen. Detta kan ta några sekunder om loggfilen är stor.</translation>
+        <source>Open the Bitcoin UL debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Öppna felsökningsloggfilen för Bitcoin UL från den nuvarande datakatalogen. Detta kan ta några sekunder om loggfilen är stor.</translation>
     </message>
     <message>
         <source>Received</source>
@@ -1560,8 +1560,8 @@ Var vänlig och försök igen.</translation>
         <translation>Rensa konsollen</translation>
     </message>
     <message>
-        <source>Welcome to the Bitcoin XT RPC console.</source>
-        <translation>Välkommen till RPC-konsolen för Bitcoin XT.</translation>
+        <source>Welcome to the Bitcoin UL RPC console.</source>
+        <translation>Välkommen till RPC-konsolen för Bitcoin UL.</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
@@ -2130,8 +2130,8 @@ Var vänlig och försök igen.</translation>
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Bitcoin XT is shutting down...</source>
-        <translation>Bitcoin XT stängs av...</translation>
+        <source>Bitcoin UL is shutting down...</source>
+        <translation>Bitcoin UL stängs av...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -2280,12 +2280,12 @@ Var vänlig och försök igen.</translation>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Bitcoin XT</source>
+        <source>Bitcoin UL</source>
         <translation>Bitcoin Kärna</translation>
     </message>
     <message>
-        <source>The Bitcoin XT developers</source>
-        <translation>Bitcoin XT-utvecklarna</translation>
+        <source>The Bitcoin UL developers</source>
+        <translation>Bitcoin UL-utvecklarna</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -2834,8 +2834,8 @@ Var vänlig och försök igen.</translation>
         <translation>Detta är ett förhands testbygge - använd på egen risk - använd inte för mining eller handels applikationer</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Bitcoin XT is probably already running.</source>
-        <translation>Det går inte att binda till %s på den här datorn. Bitcoin XT är förmodligen redan igång.</translation>
+        <source>Unable to bind to %s on this computer. Bitcoin UL is probably already running.</source>
+        <translation>Det går inte att binda till %s på den här datorn. Bitcoin UL är förmodligen redan igång.</translation>
     </message>
     <message>
         <source>WARNING: abnormally high number of blocks generated, %d blocks received in the last %d hours (%d expected)</source>
@@ -3030,8 +3030,8 @@ Var vänlig och försök igen.</translation>
         <translation>Bind till angiven adress för att lyssna på JSON-RPC anslutningar. Använd [värd]:port notation for IPv6. Denna option kan specificeras flera gånger (förvalt: bind till alla gränssnitt)</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Bitcoin XT is probably already running.</source>
-        <translation>Kan inte låsa data-mappen %s. Bitcoin XT körs förmodligen redan.</translation>
+        <source>Cannot obtain a lock on data directory %s. Bitcoin UL is probably already running.</source>
+        <translation>Kan inte låsa data-mappen %s. Bitcoin UL körs förmodligen redan.</translation>
     </message>
     <message>
         <source>Create new files with system default permissions, instead of umask 077 (only effective with disabled wallet functionality)</source>
@@ -3122,8 +3122,8 @@ till exempel: alertnotify=echo %%s | mail -s "Bitcoin Alert" admin@foo.com
         <translation>Varning: -maxtxfee är satt väldigt hög! Så höga avgifter kan betalas för en enstaka transaktion.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Bitcoin XT will not work properly.</source>
-        <translation>Varning: Vänligen kolla så att din dators datum och tid är korrekt! Om din klocka går fel kommer Bitcoin XT inte att fungera korrekt.</translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Bitcoin UL will not work properly.</source>
+        <translation>Varning: Vänligen kolla så att din dators datum och tid är korrekt! Om din klocka går fel kommer Bitcoin UL inte att fungera korrekt.</translation>
     </message>
     <message>
         <source>Whitelisted peers cannot be DoS banned and their transactions are always relayed, even if they are already in the mempool, useful e.g. for a gateway</source>
@@ -3162,16 +3162,16 @@ till exempel: alertnotify=echo %%s | mail -s "Bitcoin Alert" admin@foo.com
         <translation>Anslut genom SOCKS5 proxy</translation>
     </message>
     <message>
-        <source>Copyright (C) 2009-%i The Bitcoin XT Developers</source>
-        <translation>Copyright (C) 2009-%i Bitcoin XT Utvecklarna</translation>
+        <source>Copyright (C) 2009-%i The Bitcoin UL Developers</source>
+        <translation>Copyright (C) 2009-%i Bitcoin UL Utvecklarna</translation>
     </message>
     <message>
         <source>Could not parse -rpcbind value %s as network address</source>
         <translation>Kunde inte tolka -rpcbind värdet %s som en nätverksadress</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Bitcoin XT</source>
-        <translation>Fel vid inläsningen av wallet.dat: Kontofilen kräver en senare version av Bitcoin XT</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Bitcoin UL</source>
+        <translation>Fel vid inläsningen av wallet.dat: Kontofilen kräver en senare version av Bitcoin UL</translation>
     </message>
     <message>
         <source>Error reading from database, shutting down.</source>
@@ -3190,8 +3190,8 @@ till exempel: alertnotify=echo %%s | mail -s "Bitcoin Alert" admin@foo.com
         <translation>Information</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. Bitcoin XT is shutting down.</source>
-        <translation>Initieringschecken fallerade. Bitcoin XT stängs av...</translation>
+        <source>Initialization sanity check failed. Bitcoin UL is shutting down.</source>
+        <translation>Initieringschecken fallerade. Bitcoin UL stängs av...</translation>
     </message>
     <message>
         <source>Invalid amount for -maxtxfee=&lt;amount&gt;: '%s'</source>
@@ -3318,8 +3318,8 @@ till exempel: alertnotify=echo %%s | mail -s "Bitcoin Alert" admin@foo.com
         <translation>Användarnamn för JSON-RPC-anslutningar</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Bitcoin XT to complete</source>
-        <translation>Kontot behöver sparas om: Starta om Bitcoin XT för att fullfölja</translation>
+        <source>Wallet needed to be rewritten: restart Bitcoin UL to complete</source>
+        <translation>Kontot behöver sparas om: Starta om Bitcoin UL för att fullfölja</translation>
     </message>
     <message>
         <source>Warning</source>

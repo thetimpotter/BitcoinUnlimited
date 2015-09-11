@@ -176,7 +176,7 @@ static CIPGroup *LoadIPDataFromWeb(const string &url, const string &groupname, i
     curl_easy_setopt(curl, CURLOPT_NOPROGRESS, 1L);
     curl_easy_setopt(curl, CURLOPT_NOSIGNAL, 1L);
     curl_easy_setopt(curl, CURLOPT_FOLLOWLOCATION, 1L);   // Follow redirects
-    curl_easy_setopt(curl, CURLOPT_USERAGENT, "Bitcoin XT");
+    curl_easy_setopt(curl, CURLOPT_USERAGENT, "Bitcoin UL");
     curl_easy_setopt(curl, CURLOPT_FORBID_REUSE, 1L);   // Don't use up sockets on the target website unnecessarily.
     curl_easy_setopt(curl, CURLOPT_WRITEFUNCTION, &CurlData);
     curl_easy_setopt(curl, CURLOPT_WRITEDATA, &data);

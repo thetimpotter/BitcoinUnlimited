@@ -267,7 +267,7 @@
         <translation>Buka &amp;URI</translation>
     </message>
     <message>
-        <source>Bitcoin XT client</source>
+        <source>Bitcoin UL client</source>
         <translation>Client Bitcoin Inti</translation>
     </message>
     <message>
@@ -319,7 +319,7 @@
         <translation>&amp;Menerima</translation>
     </message>
     <message>
-        <source>Show information about Bitcoin XT</source>
+        <source>Show information about Bitcoin UL</source>
         <translation>Tampilkan informasi tentang Bitcoin Inti</translation>
     </message>
     <message>
@@ -359,16 +359,16 @@
         <translation>Baris tab</translation>
     </message>
     <message>
-        <source>Bitcoin XT</source>
-        <translation>Bitcoin XT</translation>
+        <source>Bitcoin UL</source>
+        <translation>Bitcoin UL</translation>
     </message>
     <message>
         <source>Request payments (generates QR codes and bitcoin: URIs)</source>
         <translation>Permintaan pembayaran (membangkitkan kode QR dan bitcoin: URIs)</translation>
     </message>
     <message>
-        <source>&amp;About Bitcoin XT</source>
-        <translation>&amp;Mengenai Bitcoin XT</translation>
+        <source>&amp;About Bitcoin UL</source>
+        <translation>&amp;Mengenai Bitcoin UL</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -387,8 +387,8 @@
         <translation>&amp;pilihan Perintah-baris</translation>
     </message>
     <message>
-        <source>Show the Bitcoin XT help message to get a list with possible Bitcoin command-line options</source>
-        <translation>Tampilkan pesan bantuan Bitcoin XT untuk memberikan daftar pilihan perintah-baris yang memungkinkan dalam aplikasi Bitcoin</translation>
+        <source>Show the Bitcoin UL help message to get a list with possible Bitcoin command-line options</source>
+        <translation>Tampilkan pesan bantuan Bitcoin UL untuk memberikan daftar pilihan perintah-baris yang memungkinkan dalam aplikasi Bitcoin</translation>
     </message>
     <message numerus="yes">
         <source>%n active connection(s) to Bitcoin network</source>
@@ -742,16 +742,16 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Bitcoin XT</source>
-        <translation>Bitcoin XT</translation>
+        <source>Bitcoin UL</source>
+        <translation>Bitcoin UL</translation>
     </message>
     <message>
         <source>version</source>
         <translation>versi</translation>
     </message>
     <message>
-        <source>About Bitcoin XT</source>
-        <translation>Mengenai Bitcoin XT</translation>
+        <source>About Bitcoin UL</source>
+        <translation>Mengenai Bitcoin UL</translation>
     </message>
     <message>
         <source>Usage:</source>
@@ -769,8 +769,8 @@
         <translation>Selamat Datang</translation>
     </message>
     <message>
-        <source>Welcome to Bitcoin XT.</source>
-        <translation>Selamat Datang ke Bitcoin XT</translation>
+        <source>Welcome to Bitcoin UL.</source>
+        <translation>Selamat Datang ke Bitcoin UL</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -781,8 +781,8 @@
         <translation>Menggunakan direktori data yang dipilih Anda:</translation>
     </message>
     <message>
-        <source>Bitcoin XT</source>
-        <translation>Bitcoin XT</translation>
+        <source>Bitcoin UL</source>
+        <translation>Bitcoin UL</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1595,8 +1595,8 @@
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Bitcoin XT is shutting down...</source>
-        <translation>Bitcoin XT sementara dimatikan...</translation>
+        <source>Bitcoin UL is shutting down...</source>
+        <translation>Bitcoin UL sementara dimatikan...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -1721,12 +1721,12 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Bitcoin XT</source>
-        <translation>Bitcoin XT</translation>
+        <source>Bitcoin UL</source>
+        <translation>Bitcoin UL</translation>
     </message>
     <message>
-        <source>The Bitcoin XT developers</source>
-        <translation>Pembangun Bitcoin XT</translation>
+        <source>The Bitcoin UL developers</source>
+        <translation>Pembangun Bitcoin UL</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -2203,8 +2203,8 @@
         <translation>Jalankan perintah ketika perubahan transaksi dompet (%s di cmd digantikan oleh TxID)</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Bitcoin XT is probably already running.</source>
-        <translation>Tidak bisa mengikat dengan %s di computer ini. Kemungkinan Bitcoin XT sudah mulai.</translation>
+        <source>Unable to bind to %s on this computer. Bitcoin UL is probably already running.</source>
+        <translation>Tidak bisa mengikat dengan %s di computer ini. Kemungkinan Bitcoin UL sudah mulai.</translation>
     </message>
     <message>
         <source>Warning: -paytxfee is set very high! This is the transaction fee you will pay if you send a transaction.</source>
@@ -2323,8 +2323,8 @@
         <translation>Impor blok dari eksternal berkas blk000???.dat</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Bitcoin XT is probably already running.</source>
-        <translation>Tidak bisa mengunci data directory %s. Kemungkinan Bitcoin XT sudah mulai.</translation>
+        <source>Cannot obtain a lock on data directory %s. Bitcoin UL is probably already running.</source>
+        <translation>Tidak bisa mengunci data directory %s. Kemungkinan Bitcoin UL sudah mulai.</translation>
     </message>
     <message>
         <source>Information</source>

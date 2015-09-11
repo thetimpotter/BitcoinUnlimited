@@ -343,7 +343,7 @@
         <translation>Barra de ferramentas</translation>
     </message>
     <message>
-        <source>Bitcoin XT</source>
+        <source>Bitcoin UL</source>
         <translation>Core de Bitcoin</translation>
     </message>
     <message>
@@ -351,8 +351,8 @@
         <translation>Solicitar pagos (xenera códigos QR e bitcoin: URIs)</translation>
     </message>
     <message>
-        <source>&amp;About Bitcoin XT</source>
-        <translation>&amp;Sobre Bitcoin XT</translation>
+        <source>&amp;About Bitcoin UL</source>
+        <translation>&amp;Sobre Bitcoin UL</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -670,7 +670,7 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Bitcoin XT</source>
+        <source>Bitcoin UL</source>
         <translation>Core de Bitcoin</translation>
     </message>
     <message>
@@ -678,7 +678,7 @@
         <translation>versión</translation>
     </message>
     <message>
-        <source>About Bitcoin XT</source>
+        <source>About Bitcoin UL</source>
         <translation>Sobre Bitcoin core</translation>
     </message>
     <message>
@@ -709,7 +709,7 @@
         <translation>Empregar un directorio de datos personalizado</translation>
     </message>
     <message>
-        <source>Bitcoin XT</source>
+        <source>Bitcoin UL</source>
         <translation>Core de Bitcoin</translation>
     </message>
     <message>
@@ -1489,12 +1489,12 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Bitcoin XT</source>
+        <source>Bitcoin UL</source>
         <translation>Core de Bitcoin</translation>
     </message>
     <message>
-        <source>The Bitcoin XT developers</source>
-        <translation>Os desarrolladores de Bitcoin XT</translation>
+        <source>The Bitcoin UL developers</source>
+        <translation>Os desarrolladores de Bitcoin UL</translation>
     </message>
     <message>
         <source>[testnet]</source>

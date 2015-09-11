@@ -168,8 +168,8 @@
         <translation>Er du sikker på at du vil kryptere lommeboken?</translation>
     </message>
     <message>
-        <source>Bitcoin XT will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
-        <translation>Bitcoin XT vil nå avslutte for å fullføre krypteringsprosessen. Husk at kryptering av lommeboken ikke kan beskytte fullstendig mot tyveri av dine bitcoins hvis datamaskinen din er infisert av skadevare.</translation>
+        <source>Bitcoin UL will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
+        <translation>Bitcoin UL vil nå avslutte for å fullføre krypteringsprosessen. Husk at kryptering av lommeboken ikke kan beskytte fullstendig mot tyveri av dine bitcoins hvis datamaskinen din er infisert av skadevare.</translation>
     </message>
     <message>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
@@ -295,8 +295,8 @@
         <translation>Åpne &amp;URI...</translation>
     </message>
     <message>
-        <source>Bitcoin XT client</source>
-        <translation>Bitcoin XT-klient</translation>
+        <source>Bitcoin UL client</source>
+        <translation>Bitcoin UL-klient</translation>
     </message>
     <message>
         <source>Importing blocks from disk...</source>
@@ -347,8 +347,8 @@
         <translation>&amp;Motta</translation>
     </message>
     <message>
-        <source>Show information about Bitcoin XT</source>
-        <translation>Vis informasjon om Bitcoin XT</translation>
+        <source>Show information about Bitcoin UL</source>
+        <translation>Vis informasjon om Bitcoin UL</translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
@@ -387,20 +387,20 @@
         <translation>Verktøylinje for faner</translation>
     </message>
     <message>
-        <source>Bitcoin XT</source>
-        <translation>Bitcoin XT</translation>
+        <source>Bitcoin UL</source>
+        <translation>Bitcoin UL</translation>
     </message>
     <message>
         <source>Request payments (generates QR codes and bitcoin: URIs)</source>
         <translation>Forespør betalinger (genererer QR-koder og bitcoin: URIer)</translation>
     </message>
     <message>
-        <source>&amp;About Bitcoin XT</source>
-        <translation>&amp;Om Bitcoin XT</translation>
+        <source>&amp;About Bitcoin UL</source>
+        <translation>&amp;Om Bitcoin UL</translation>
     </message>
     <message>
-        <source>Modify configuration options for Bitcoin XT</source>
-        <translation>Endre konfigurasjonsvalg for Bitcoin XT</translation>
+        <source>Modify configuration options for Bitcoin UL</source>
+        <translation>Endre konfigurasjonsvalg for Bitcoin UL</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -419,8 +419,8 @@
         <translation>&amp;Kommandolinjevalg</translation>
     </message>
     <message>
-        <source>Show the Bitcoin XT help message to get a list with possible Bitcoin command-line options</source>
-        <translation>Vis Bitcoin XT hjelpemeldingen for å få en liste med mulige kommandolinjevalg</translation>
+        <source>Show the Bitcoin UL help message to get a list with possible Bitcoin command-line options</source>
+        <translation>Vis Bitcoin UL hjelpemeldingen for å få en liste med mulige kommandolinjevalg</translation>
     </message>
     <message numerus="yes">
         <source>%n active connection(s) to Bitcoin network</source>
@@ -844,8 +844,8 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Bitcoin XT</source>
-        <translation>Bitcoin XT</translation>
+        <source>Bitcoin UL</source>
+        <translation>Bitcoin UL</translation>
     </message>
     <message>
         <source>version</source>
@@ -856,8 +856,8 @@
         <translation> (%1-bit)</translation>
     </message>
     <message>
-        <source>About Bitcoin XT</source>
-        <translation>Om Bitcoin XT</translation>
+        <source>About Bitcoin UL</source>
+        <translation>Om Bitcoin UL</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -879,16 +879,16 @@
         <translation>Velkommen</translation>
     </message>
     <message>
-        <source>Welcome to Bitcoin XT.</source>
-        <translation>Velkommen til Bitcoin XT.</translation>
+        <source>Welcome to Bitcoin UL.</source>
+        <translation>Velkommen til Bitcoin UL.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Bitcoin XT will store its data.</source>
-        <translation>Siden dette er første gang programmet starter, kan du nå velge hvor Bitcoin XT skal lagre sine data.</translation>
+        <source>As this is the first time the program is launched, you can choose where Bitcoin UL will store its data.</source>
+        <translation>Siden dette er første gang programmet starter, kan du nå velge hvor Bitcoin UL skal lagre sine data.</translation>
     </message>
     <message>
-        <source>Bitcoin XT will download and store a copy of the Bitcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Bitcoin XT vil laste ned og lagre en kopi av Bitcoin sin blokkjede. Minst %1GB av data vil bli lagret i denne mappen, og det vil vokse over tid. Lommeboken vil også bli lagret i denne mappen.</translation>
+        <source>Bitcoin UL will download and store a copy of the Bitcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>Bitcoin UL vil laste ned og lagre en kopi av Bitcoin sin blokkjede. Minst %1GB av data vil bli lagret i denne mappen, og det vil vokse over tid. Lommeboken vil også bli lagret i denne mappen.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -899,8 +899,8 @@
         <translation>Bruk en egendefinert datamappe:</translation>
     </message>
     <message>
-        <source>Bitcoin XT</source>
-        <translation>Bitcoin XT</translation>
+        <source>Bitcoin UL</source>
+        <translation>Bitcoin UL</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -981,8 +981,8 @@
         <translation>Minimer i stedet for å avslutte applikasjonen når vinduet lukkes. Når dette er valgt, vil applikasjonen avsluttes kun etter at Avslutte er valgt i menyen.</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Bitcoin XT.</source>
-        <translation>Språk for brukergrensesnittet kan velges her. Denne innstillingen trer i kraft etter omstart av Bitcoin XT.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Bitcoin UL.</source>
+        <translation>Språk for brukergrensesnittet kan velges her. Denne innstillingen trer i kraft etter omstart av Bitcoin UL.</translation>
     </message>
     <message>
         <source>Third party URLs (e.g. a block explorer) that appear in the transactions tab as context menu items. %s in the URL is replaced by transaction hash. Multiple URLs are separated by vertical bar |.</source>
@@ -1009,12 +1009,12 @@
         <translation>&amp;Nettverk</translation>
     </message>
     <message>
-        <source>Automatically start Bitcoin XT after logging in to the system.</source>
-        <translation>Start Bitcoin XT automatisk ved oppstart av datamaskinen.</translation>
+        <source>Automatically start Bitcoin UL after logging in to the system.</source>
+        <translation>Start Bitcoin UL automatisk ved oppstart av datamaskinen.</translation>
     </message>
     <message>
-        <source>&amp;Start Bitcoin XT on system login</source>
-        <translation>&amp;Start Bitcoin XT ved oppstart av datamaskinen</translation>
+        <source>&amp;Start Bitcoin UL on system login</source>
+        <translation>&amp;Start Bitcoin UL ved oppstart av datamaskinen</translation>
     </message>
     <message>
         <source>(0 = auto, &lt;0 = leave that many cores free)</source>
@@ -1443,8 +1443,8 @@
         <translation>Nåværende antall blokker</translation>
     </message>
     <message>
-        <source>Open the Bitcoin XT debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Åpne Bitcoin XT sin loggfil for feilsøk fra gjeldende datamappe. Dette kan ta noen sekunder for store loggfiler.</translation>
+        <source>Open the Bitcoin UL debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Åpne Bitcoin UL sin loggfil for feilsøk fra gjeldende datamappe. Dette kan ta noen sekunder for store loggfiler.</translation>
     </message>
     <message>
         <source>Received</source>
@@ -1563,8 +1563,8 @@
         <translation>Tøm konsoll</translation>
     </message>
     <message>
-        <source>Welcome to the Bitcoin XT RPC console.</source>
-        <translation>Velkommen til Bitcoin XT sin RPC-konsoll.</translation>
+        <source>Welcome to the Bitcoin UL RPC console.</source>
+        <translation>Velkommen til Bitcoin UL sin RPC-konsoll.</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
@@ -2141,8 +2141,8 @@
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Bitcoin XT is shutting down...</source>
-        <translation>Bitcoin XT lukker...</translation>
+        <source>Bitcoin UL is shutting down...</source>
+        <translation>Bitcoin UL lukker...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -2291,12 +2291,12 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Bitcoin XT</source>
-        <translation>Bitcoin XT</translation>
+        <source>Bitcoin UL</source>
+        <translation>Bitcoin UL</translation>
     </message>
     <message>
-        <source>The Bitcoin XT developers</source>
-        <translation>Bitcoin XT utviklerne</translation>
+        <source>The Bitcoin UL developers</source>
+        <translation>Bitcoin UL utviklerne</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -2845,8 +2845,8 @@
         <translation>Dette er en forhåndssluppet testversjon - bruk på egen risiko - ikke for bruk til blokkutvinning eller bedriftsapplikasjoner</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Bitcoin XT is probably already running.</source>
-        <translation>Ute av stand til å binde til %s på denne datamaskinen. Bitcoin XT kjører sannsynligvis allerede.</translation>
+        <source>Unable to bind to %s on this computer. Bitcoin UL is probably already running.</source>
+        <translation>Ute av stand til å binde til %s på denne datamaskinen. Bitcoin UL kjører sannsynligvis allerede.</translation>
     </message>
     <message>
         <source>Warning: -paytxfee is set very high! This is the transaction fee you will pay if you send a transaction.</source>
@@ -3033,8 +3033,8 @@
         <translation>Bind til gitt adresse for å lytte for JSON-RPC-tilkoblinger. Bruk [host]:port notasjon for IPv6. Dette alternativet kan angis flere ganger (standardverdi: bind til alle grensesnitt)</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Bitcoin XT is probably already running.</source>
-        <translation>Ute av stand til å låse datamappen %s. Bitcoin XT kjører sannsynligvis allerede.</translation>
+        <source>Cannot obtain a lock on data directory %s. Bitcoin UL is probably already running.</source>
+        <translation>Ute av stand til å låse datamappen %s. Bitcoin UL kjører sannsynligvis allerede.</translation>
     </message>
     <message>
         <source>Create new files with system default permissions, instead of umask 077 (only effective with disabled wallet functionality)</source>
@@ -3129,8 +3129,8 @@ for eksempel: alertnotify=echo %%s | mail -s "Bitcoin Alert" admin@foo.com
         <translation>Advarsel: -paytxfee er satt veldig høyt! Så stort gebyr kan bli betalt ved en enkelt transaksjon.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Bitcoin XT will not work properly.</source>
-        <translation>Advarsel: Vennligst undersøk at din datamaskin har riktig dato og klokkeslett! Hvis klokken er stilt feil vil ikke Bitcoin XT fungere riktig.</translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Bitcoin UL will not work properly.</source>
+        <translation>Advarsel: Vennligst undersøk at din datamaskin har riktig dato og klokkeslett! Hvis klokken er stilt feil vil ikke Bitcoin UL fungere riktig.</translation>
     </message>
     <message>
         <source>Whitelisted peers cannot be DoS banned and their transactions are always relayed, even if they are already in the mempool, useful e.g. for a gateway</source>
@@ -3169,16 +3169,16 @@ for eksempel: alertnotify=echo %%s | mail -s "Bitcoin Alert" admin@foo.com
         <translation>Koble til via SOCKS5-proxy</translation>
     </message>
     <message>
-        <source>Copyright (C) 2009-%i The Bitcoin XT Developers</source>
-        <translation>Copyright (C) 2009-%i utviklerne av Bitcoin XT</translation>
+        <source>Copyright (C) 2009-%i The Bitcoin UL Developers</source>
+        <translation>Copyright (C) 2009-%i utviklerne av Bitcoin UL</translation>
     </message>
     <message>
         <source>Could not parse -rpcbind value %s as network address</source>
         <translation>Kunne ikke tolke -rpcbind-verdi %s som en nettverksadresse</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Bitcoin XT</source>
-        <translation>Feil ved lasting av wallet.dat: Lommeboken krever en nyere versjon av Bitcoin XT</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Bitcoin UL</source>
+        <translation>Feil ved lasting av wallet.dat: Lommeboken krever en nyere versjon av Bitcoin UL</translation>
     </message>
     <message>
         <source>Error reading from database, shutting down.</source>
@@ -3197,8 +3197,8 @@ for eksempel: alertnotify=echo %%s | mail -s "Bitcoin Alert" admin@foo.com
         <translation>Informasjon</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. Bitcoin XT is shutting down.</source>
-        <translation>Sunnhetssjekk ved oppstart feilet. Bitcoin XT stenges ned.</translation>
+        <source>Initialization sanity check failed. Bitcoin UL is shutting down.</source>
+        <translation>Sunnhetssjekk ved oppstart feilet. Bitcoin UL stenges ned.</translation>
     </message>
     <message>
         <source>Invalid amount for -maxtxfee=&lt;amount&gt;: '%s'</source>
@@ -3325,8 +3325,8 @@ for eksempel: alertnotify=echo %%s | mail -s "Bitcoin Alert" admin@foo.com
         <translation>Brukernavn for JSON-RPC forbindelser</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Bitcoin XT to complete</source>
-        <translation>Lommeboken måtte skrives på nytt: start Bitcoin XT på nytt for å fullføre</translation>
+        <source>Wallet needed to be rewritten: restart Bitcoin UL to complete</source>
+        <translation>Lommeboken måtte skrives på nytt: start Bitcoin UL på nytt for å fullføre</translation>
     </message>
     <message>
         <source>Warning</source>

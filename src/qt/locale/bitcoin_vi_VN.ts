@@ -167,8 +167,8 @@
         <translation>Mở &amp;URI...</translation>
     </message>
     <message>
-        <source>Bitcoin XT client</source>
-        <translation>Bitcoin XT client</translation>
+        <source>Bitcoin UL client</source>
+        <translation>Bitcoin UL client</translation>
     </message>
     <message>
         <source>Bitcoin</source>
@@ -207,12 +207,12 @@
         <translation>Trợ &amp;giúp</translation>
     </message>
     <message>
-        <source>Bitcoin XT</source>
-        <translation>Bitcoin XT</translation>
+        <source>Bitcoin UL</source>
+        <translation>Bitcoin UL</translation>
     </message>
     <message>
-        <source>&amp;About Bitcoin XT</source>
-        <translation>&amp;Về Bitcoin XT</translation>
+        <source>&amp;About Bitcoin UL</source>
+        <translation>&amp;Về Bitcoin UL</translation>
     </message>
     <message numerus="yes">
         <source>%n hour(s)</source>
@@ -362,16 +362,16 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Bitcoin XT</source>
-        <translation>Bitcoin XT</translation>
+        <source>Bitcoin UL</source>
+        <translation>Bitcoin UL</translation>
     </message>
     <message>
         <source>version</source>
         <translation>version</translation>
     </message>
     <message>
-        <source>About Bitcoin XT</source>
-        <translation>Về Bitcoin XT</translation>
+        <source>About Bitcoin UL</source>
+        <translation>Về Bitcoin UL</translation>
     </message>
     </context>
 <context>
@@ -381,8 +381,8 @@
         <translation>Chào mừng</translation>
     </message>
     <message>
-        <source>Bitcoin XT</source>
-        <translation>Bitcoin XT</translation>
+        <source>Bitcoin UL</source>
+        <translation>Bitcoin UL</translation>
     </message>
     <message>
         <source>Error</source>
@@ -577,8 +577,8 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Bitcoin XT</source>
-        <translation>Bitcoin XT</translation>
+        <source>Bitcoin UL</source>
+        <translation>Bitcoin UL</translation>
     </message>
     </context>
 <context>
